@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756051983019",
+    "project_id": "cruduser-4ff4e",
+    "storage_bucket": "cruduser-4ff4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756051983019:android:d15d04602984434e8795ee",
+        "android_client_info": {
+          "package_name": "com.cruduser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756051983019-pvcj67oqas27hf4qb91gh631ci2c2uu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRWzPo6M-4ysk0kMqCoSSe18otMZCy138"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756051983019-pvcj67oqas27hf4qb91gh631ci2c2uu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
